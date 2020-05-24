@@ -1,4 +1,4 @@
-#BCB3010
+# BCB3010
 
 This is a repository for WPI BCB3010 Simulation in Biology for D-term 2018
 
@@ -32,3 +32,8 @@ Other Sims:
 
 Practice Simulation:
 &nbsp;    A simulation colaborated on with a group
+
+
+# IMPORTANT
+
+&nbsp;  This repo is for reference and educational purposes only. Please do your own work and not directly copy code. There is no guarantee that all the code is perfect and runs smoothly, and copying does not promote academic integrity. Instead use the code as a guide for the ideas and strategies for programming the assignments. Thank You.
